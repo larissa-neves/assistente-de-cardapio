@@ -1,0 +1,69 @@
+[
+  {
+    "restaurante": "Cantina da Nonna",
+    "culinaria": "italiana",
+    "pratos": [
+      {"nome": "Lasanha à bolonhesa", "descricao": "Massa fresca em camadas com molho de carne moída, molho branco e queijo gratinado.", "preco": 42.90, "categoria": "prato principal", "tags": []},
+      {"nome": "Nhoque ao sugo", "descricao": "Nhoque de batata com molho de tomate caseiro e manjericão.", "preco": 34.90, "categoria": "prato principal", "tags": ["vegetariano"]},
+      {"nome": "Espaguete com legumes", "descricao": "Espaguete ao azeite com abobrinha, tomate-cereja, brócolis e alho.", "preco": 36.50, "categoria": "prato principal", "tags": ["vegano"]},
+      {"nome": "Pizza margherita", "descricao": "Pizza de massa fina com molho de tomate, muçarela e manjericão.", "preco": 49.90, "categoria": "prato principal", "tags": ["vegetariano"]},
+      {"nome": "Tiramisù", "descricao": "Sobremesa de camadas de biscoito com café, creme de mascarpone e cacau.", "preco": 22.00, "categoria": "sobremesa", "tags": ["vegetariano"]}
+    ]
+  },
+  {
+    "restaurante": "Sabor do Pantanal",
+    "culinaria": "regional",
+    "pratos": [
+      {"nome": "Pintado na brasa", "descricao": "Filé de pintado grelhado na brasa, com arroz, farofa de banana e vinagrete.", "preco": 58.00, "categoria": "prato principal", "tags": ["sem glúten"]},
+      {"nome": "Arroz carreteiro", "descricao": "Arroz com carne seca desfiada, cebola, alho e cheiro-verde.", "preco": 38.90, "categoria": "prato principal", "tags": ["sem glúten"]},
+      {"nome": "Mojica de pintado", "descricao": "Caldo de peixe pintado com mandioca, temperos regionais e coentro.", "preco": 46.00, "categoria": "prato principal", "tags": ["sem glúten"]},
+      {"nome": "Farofa de banana", "descricao": "Porção de farofa de mandioca com banana-da-terra dourada na manteiga.", "preco": 16.00, "categoria": "acompanhamento", "tags": ["vegetariano", "sem glúten"]},
+      {"nome": "Furrundu", "descricao": "Doce típico de mamão verde ralado com rapadura e gengibre.", "preco": 14.00, "categoria": "sobremesa", "tags": ["vegano", "sem glúten"]}
+    ]
+  },
+  {
+    "restaurante": "Verde Vivo",
+    "culinaria": "vegana",
+    "pratos": [
+      {"nome": "Bowl de grão-de-bico", "descricao": "Grão-de-bico assado, arroz integral, abacate, couve e molho de tahine.", "preco": 32.00, "categoria": "prato principal", "tags": ["vegano", "sem glúten"]},
+      {"nome": "Hambúrguer de feijão", "descricao": "Hambúrguer de feijão-preto no pão de fermentação natural, com alface, tomate e maionese vegana.", "preco": 29.90, "categoria": "lanche", "tags": ["vegano"]},
+      {"nome": "Moqueca de banana-da-terra", "descricao": "Banana-da-terra cozida no leite de coco com pimentões, dendê e coentro, servida com arroz.", "preco": 39.90, "categoria": "prato principal", "tags": ["vegano", "sem glúten"]},
+      {"nome": "Salada de quinoa", "descricao": "Quinoa, pepino, tomate, hortelã, castanha-de-caju e limão.", "preco": 27.50, "categoria": "salada", "tags": ["vegano", "sem glúten"]},
+      {"nome": "Brownie vegano", "descricao": "Brownie de cacau sem ovos e sem leite, com nozes.", "preco": 15.00, "categoria": "sobremesa", "tags": ["vegano"]}
+    ]
+  },
+  {
+    "restaurante": "Sushi Kaze",
+    "culinaria": "japonesa",
+    "pratos": [
+      {"nome": "Combinado salmão 20 peças", "descricao": "Sashimi, niguiri e uramaki de salmão fresco.", "preco": 69.90, "categoria": "prato principal", "tags": []},
+      {"nome": "Yakisoba de legumes", "descricao": "Macarrão oriental salteado com repolho, cenoura, brócolis e molho shoyu.", "preco": 33.90, "categoria": "prato principal", "tags": ["vegano"]},
+      {"nome": "Temaki de salmão", "descricao": "Cone de alga com arroz, salmão em cubos e cebolinha.", "preco": 28.00, "categoria": "lanche", "tags": []},
+      {"nome": "Guioza de frango", "descricao": "Seis pastéis japoneses grelhados recheados com frango e legumes.", "preco": 24.90, "categoria": "entrada", "tags": []},
+      {"nome": "Missoshiru", "descricao": "Sopa de missô com tofu, alga wakame e cebolinha.", "preco": 12.00, "categoria": "entrada", "tags": ["vegano"]}
+    ]
+  },
+  {
+    "restaurante": "Burger Ponto Com",
+    "culinaria": "lanches",
+    "pratos": [
+      {"nome": "Cheeseburger clássico", "descricao": "Hambúrguer bovino de 160 g, queijo cheddar, picles e molho da casa no pão brioche.", "preco": 31.90, "categoria": "lanche", "tags": []},
+      {"nome": "Burger de frango crocante", "descricao": "Sobrecoxa empanada, alface, tomate e maionese de ervas.", "preco": 29.90, "categoria": "lanche", "tags": []},
+      {"nome": "Burger de cogumelos", "descricao": "Hambúrguer de cogumelos e lentilha com queijo prato e cebola caramelizada.", "preco": 30.90, "categoria": "lanche", "tags": ["vegetariano"]},
+      {"nome": "Batata frita rústica", "descricao": "Batatas com casca, alecrim e sal grosso.", "preco": 18.00, "categoria": "acompanhamento", "tags": ["vegano", "sem glúten"]},
+      {"nome": "Milkshake de chocolate", "descricao": "Sorvete de chocolate batido com leite e calda.", "preco": 19.90, "categoria": "sobremesa", "tags": ["vegetariano"]}
+    ]
+  },
+  {
+    "restaurante": "Marmitaria Dona Rosa",
+    "culinaria": "caseira",
+    "pratos": [
+      {"nome": "Prato feito de frango grelhado", "descricao": "Filé de frango grelhado, arroz, feijão, salada e batata frita.", "preco": 24.90, "categoria": "prato principal", "tags": ["sem glúten"]},
+      {"nome": "Feijoada completa", "descricao": "Feijoada com carnes, arroz, couve refogada, farofa e laranja.", "preco": 35.00, "categoria": "prato principal", "tags": []},
+      {"nome": "Escondidinho de carne seca", "descricao": "Purê de mandioca gratinado com recheio de carne seca e queijo.", "preco": 32.90, "categoria": "prato principal", "tags": ["sem glúten"]},
+      {"nome": "Marmita fit de legumes", "descricao": "Arroz integral, legumes no vapor, grão-de-bico e salada verde.", "preco": 22.00, "categoria": "prato principal", "tags": ["vegano", "sem glúten"]},
+      {"nome": "Pudim de leite", "descricao": "Pudim de leite condensado com calda de caramelo.", "preco": 10.00, "categoria": "sobremesa", "tags": ["vegetariano", "sem glúten"]}
+    ]
+  }
+]
+
