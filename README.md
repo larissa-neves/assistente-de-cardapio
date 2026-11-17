@@ -1,8 +1,5 @@
 # Assistente de Cardápio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/larissa-neves/assistente-de-cardapio?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/larissa-neves/assistente-de-cardapio?style=for-the-badge)
-
 > Chat que recomenda pratos de restaurantes fictícios. Combina busca semântica com embeddings (RAG) e um agente que chama um LLM via API compatível com a OpenAI (Groq por padrão).
 
 ## Ajustes e melhorias
