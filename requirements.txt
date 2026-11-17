@@ -1,0 +1,6 @@
+gradio
+openai
+sentence-transformers
+numpy
+python-dotenv
+pytest
